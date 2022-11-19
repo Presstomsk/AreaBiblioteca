@@ -42,5 +42,5 @@ from Products
 left join ProductsAndCategories on Products.Id = ProductsAndCategories.ProductsNameId
 left join Categories on ProductsAndCategories.CategoryNameId = Categories.Id 
 
-![1](https://github.com/Presstomsk/AreaBiblioteca/blob/master/SqlTest.jpg)
+![1](https://github.com/Presstomsk/AreaBiblioteca/blob/master/SqlZadanie/SqlTest.jpg)
 
